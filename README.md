@@ -1,8 +1,5 @@
 # RainbowSixSiege-AntiCheat
 
-## Disclaimer
-I am no longer associated with this project due to the original creator using cheats, which is obviously against the goal of this project. However, this is where the project was before I left.
-
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://github.com/KimberIyn/RainbowSixSiege-AntiCheat/blob/main/docs/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
@@ -15,7 +12,7 @@ We use [SemVer](http://semver.org/) for versioning.
 
 ### Primary Contributors
 * **Kimberlyn** - *Anti-cheat* - [Kimberlyn](https://github.com/Kimberlyn)
-* **Morgan West** - *Databse API and Website* - [morganzwest](https://github.com/morganzwest)
+* **Morgan West** - *Databse API and Website and Data Processing* - [morganzwest](https://github.com/morganzwest)
 ### Secondary Contributors
 * None
 
