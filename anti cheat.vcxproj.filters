@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="anti cheat.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="util.cpp">
+      <Filter>project b\util</Filter>
+    </ClCompile>
+    <ClCompile Include="antihook.cpp">
+      <Filter>project b\protection</Filter>
+    </ClCompile>
+    <ClCompile Include="aes.c">
+      <Filter>project b\protection\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="sha256.c">
+      <Filter>project b\protection\crypto</Filter>
+    </ClCompile>
+    <ClCompile Include="hwid.cpp">
+      <Filter>project b\util\hwid</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="source">
+      <UniqueIdentifier>{52574552-06ca-4a66-b22e-0b1efed2becf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="project b">
+      <UniqueIdentifier>{388015b0-5e4f-4e27-947a-0017b5920f55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="project b\util">
+      <UniqueIdentifier>{c76f9c34-c020-4259-bfa5-3d0016d23c9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="project b\protection">
+      <UniqueIdentifier>{b33abbb9-2a13-4223-aebc-473da419f405}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="project b\protection\crypto">
+      <UniqueIdentifier>{781cd8b6-941b-42c6-aa6d-69ae839c7e34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="project b\util\hwid">
+      <UniqueIdentifier>{f1a4657f-d5fd-49f9-9cb6-e73aed41cb81}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="util.h">
+      <Filter>project b\util</Filter>
+    </ClInclude>
+    <ClInclude Include="antihook.h">
+      <Filter>project b\protection</Filter>
+    </ClInclude>
+    <ClInclude Include="vmprotect.h">
+      <Filter>project b\protection</Filter>
+    </ClInclude>
+    <ClInclude Include="aes.h">
+      <Filter>project b\protection\crypto</Filter>
+    </ClInclude>
+    <ClInclude Include="sha256.h">
+      <Filter>project b\protection\crypto</Filter>
+    </ClInclude>
+    <ClInclude Include="hwid.h">
+      <Filter>project b\util\hwid</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
